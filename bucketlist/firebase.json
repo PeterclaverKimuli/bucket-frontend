@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist\\bucketlist",
+    "public": "dist/bucketlist",
     "ignore": [
       "firebase.json",
       "**/.*",
